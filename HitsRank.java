@@ -8,7 +8,7 @@ import java.util.LinkedHashMap;
 import java.util.TreeMap;
 import java.util.TreeSet;
 
-public class hitsRank {
+public class HitsRank {
 
 	private static HashMap<String,ArrayList<String>> outLinks;
 	private static HashMap<String,ArrayList<String>> inLinks;
